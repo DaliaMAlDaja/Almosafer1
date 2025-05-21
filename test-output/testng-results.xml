@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-21T18:43:38 GMT+03:00" name="Default suite" finished-at="2025-05-21T18:44:31 GMT+03:00" duration-ms="52925">
+    <groups>
+    </groups>
+    <test started-at="2025-05-21T18:43:38 GMT+03:00" name="Default test" finished-at="2025-05-21T18:44:31 GMT+03:00" duration-ms="52925">
+      <class name="Almosafer_last_edit.Almosafer_last_edit.AppTest">
+        <test-method is-config="true" signature="My_Setup()[pri:0, instance:Almosafer_last_edit.Almosafer_last_edit.AppTest@2e61d218]" started-at="2025-05-21T18:43:38 GMT+03:00" name="My_Setup" finished-at="2025-05-21T18:43:42 GMT+03:00" duration-ms="4039" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- My_Setup -->
+        <test-method signature="Verify_Default_Language_Is_English()[pri:1, instance:Almosafer_last_edit.Almosafer_last_edit.AppTest@2e61d218]" started-at="2025-05-21T18:43:43 GMT+03:00" name="Verify_Default_Language_Is_English" finished-at="2025-05-21T18:43:43 GMT+03:00" duration-ms="118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Default_Language_Is_English -->
+        <test-method signature="Verify_Default_Currency_Is_SAR()[pri:2, instance:Almosafer_last_edit.Almosafer_last_edit.AppTest@2e61d218]" started-at="2025-05-21T18:43:43 GMT+03:00" name="Verify_Default_Currency_Is_SAR" finished-at="2025-05-21T18:43:43 GMT+03:00" duration-ms="103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Default_Currency_Is_SAR -->
+        <test-method signature="Verify_Displayed_Contact_Number_Is_Correct()[pri:3, instance:Almosafer_last_edit.Almosafer_last_edit.AppTest@2e61d218]" started-at="2025-05-21T18:43:43 GMT+03:00" name="Verify_Displayed_Contact_Number_Is_Correct" finished-at="2025-05-21T18:43:43 GMT+03:00" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Displayed_Contact_Number_Is_Correct -->
+        <test-method signature="Verify_That_Qitaf_Logo_Is_Displayed_In_Footer()[pri:4, instance:Almosafer_last_edit.Almosafer_last_edit.AppTest@2e61d218]" started-at="2025-05-21T18:43:43 GMT+03:00" name="Verify_That_Qitaf_Logo_Is_Displayed_In_Footer" finished-at="2025-05-21T18:43:43 GMT+03:00" duration-ms="461" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_That_Qitaf_Logo_Is_Displayed_In_Footer -->
+        <test-method signature="Verify_Hotel_Tab_Is_Not_Selected_By_Default()[pri:5, instance:Almosafer_last_edit.Almosafer_last_edit.AppTest@2e61d218]" started-at="2025-05-21T18:43:43 GMT+03:00" name="Verify_Hotel_Tab_Is_Not_Selected_By_Default" finished-at="2025-05-21T18:43:45 GMT+03:00" duration-ms="1986" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Hotel_Tab_Is_Not_Selected_By_Default -->
+        <test-method signature="Verify_Default_Departure_And_Return_Dates_Are_Set()[pri:6, instance:Almosafer_last_edit.Almosafer_last_edit.AppTest@2e61d218]" started-at="2025-05-21T18:43:45 GMT+03:00" name="Verify_Default_Departure_And_Return_Dates_Are_Set" finished-at="2025-05-21T18:43:46 GMT+03:00" duration-ms="814" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Default_Departure_And_Return_Dates_Are_Set -->
+        <test-method signature="Verify_That_Language_Changes_To_Random_Option()[pri:7, instance:Almosafer_last_edit.Almosafer_last_edit.AppTest@2e61d218]" started-at="2025-05-21T18:43:46 GMT+03:00" name="Verify_That_Language_Changes_To_Random_Option" finished-at="2025-05-21T18:43:50 GMT+03:00" duration-ms="4131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_That_Language_Changes_To_Random_Option -->
+        <test-method signature="Search_Hotel_By_Random_City_Based_On_Website_Language()[pri:8, instance:Almosafer_last_edit.Almosafer_last_edit.AppTest@2e61d218]" started-at="2025-05-21T18:43:50 GMT+03:00" name="Search_Hotel_By_Random_City_Based_On_Website_Language" finished-at="2025-05-21T18:43:55 GMT+03:00" duration-ms="4731" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Search_Hotel_By_Random_City_Based_On_Website_Language -->
+        <test-method signature="Select_Hotel_CheckIn_And_CheckOut_With_Custom_Dates()[pri:9, instance:Almosafer_last_edit.Almosafer_last_edit.AppTest@2e61d218]" started-at="2025-05-21T18:43:55 GMT+03:00" name="Select_Hotel_CheckIn_And_CheckOut_With_Custom_Dates" finished-at="2025-05-21T18:44:02 GMT+03:00" duration-ms="7087" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Select_Hotel_CheckIn_And_CheckOut_With_Custom_Dates -->
+        <test-method signature="Select_Number_Of_Guests_And_Rooms()[pri:10, instance:Almosafer_last_edit.Almosafer_last_edit.AppTest@2e61d218]" started-at="2025-05-21T18:44:02 GMT+03:00" name="Select_Number_Of_Guests_And_Rooms" finished-at="2025-05-21T18:44:09 GMT+03:00" duration-ms="6951" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Select_Number_Of_Guests_And_Rooms -->
+        <test-method signature="Verify_That_Hotel_Search_Results_Are_Displayed()[pri:11, instance:Almosafer_last_edit.Almosafer_last_edit.AppTest@2e61d218]" started-at="2025-05-21T18:44:09 GMT+03:00" name="Verify_That_Hotel_Search_Results_Are_Displayed" finished-at="2025-05-21T18:44:31 GMT+03:00" duration-ms="22170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_That_Hotel_Search_Results_Are_Displayed -->
+      </class> <!-- Almosafer_last_edit.Almosafer_last_edit.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
